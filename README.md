@@ -7,7 +7,6 @@
 ## Запуск
 
 ```bash
-pip install -r requirements.txt
 python generator.py       # создаёт dataset.csv
 python train.py           # обучает нейросеть
 python test.py            # проверка
